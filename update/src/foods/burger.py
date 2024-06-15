@@ -1,4 +1,4 @@
-from foods import Food
+from foods.foods import Food
 
 
 class Burger(Food):

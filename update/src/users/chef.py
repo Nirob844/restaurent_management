@@ -1,4 +1,4 @@
-from employee import Employee
+from users.employee import Employee
 
 
 class Chef(Employee):

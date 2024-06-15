@@ -1,4 +1,4 @@
-from menu import Menu
+from menu.menu import Menu
 
 
 class Restaurant:
