@@ -105,5 +105,3 @@ The Restaurant Management System will include the following functionalities:
 The Restaurant Management System will automate and streamline the operations of a restaurant, improving efficiency and customer satisfaction.
 
 ---
-
-Feel free to expand or modify these sections based on your specific project requirements. This template provides a comprehensive structure for documenting the requirements and specifications of your Restaurant Management System.
